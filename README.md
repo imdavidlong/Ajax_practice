@@ -1,5 +1,6 @@
 # Ajax_practice
 
-Learning Ajax in JS then to catch the information from Reddit Sneaker news.
+Learning Ajax in JS.
+To catch the information from Reddit Sneaker news and save as a HTML page.
 
-<image src="1.PNG" width="300" hight="200">
+<image src="1.png" width="300" hight="200">
