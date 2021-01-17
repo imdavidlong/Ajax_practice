@@ -3,6 +3,8 @@
 Learning Ajax in JS.
 To catch the information from Reddit Sneaker news and save as a HTML page.
 
+Run the index.html file to get following info:
+
 <image src="reddit_pic.png" width="300" hight="200">
 
 
